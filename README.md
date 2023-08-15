@@ -18,7 +18,7 @@ If you want to use it for another purpose, you can modify the list of ports.
 - Have a testing program;
 - Be object-oriented;
 - Allow manual input of ports to terminate processes.
-- 
+
 # Execution image:
 
 ![image](https://user-images.githubusercontent.com/95552879/222029849-35a99ef9-089e-4b2a-b874-a160beb8af44.png)
